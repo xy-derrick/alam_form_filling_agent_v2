@@ -9,6 +9,7 @@ Local FastAPI service that:
 - Python 3.10+
 - Tesseract installed and on PATH
 - `GOOGLE_API_KEY` set for Gemini
+- `Browser_use_API_KEY` set for Browser_use Model
 
 ## Setup
 ```bash
@@ -19,7 +20,6 @@ pip install -r requirements.txt
 
 ## Run
 ```bash
-set GOOGLE_API_KEY=your_key
 uvicorn app.main:app --loop asyncio
 ```
 
@@ -28,4 +28,3 @@ Open `http://127.0.0.1:8000` to upload files and start a job.
 ## Notes
 - Uploads are stored in `./data/uploads`.
 - The agent does not submit the form. Review the filled browser window and submit manually.
-- If scanned PDFs are slow, reduce DPI in `app/services/ocr.py`.
