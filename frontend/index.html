@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Fill Agent</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <p class="eyebrow">Browser Use Local Agent</p>
+        <h1>Form fill, not form submit.</h1>
+        <p class="lede">
+          Upload your Passport and G-28 PDFs, let the agent find the required
+          fields, extract the data with OCR, and fill the form for your review.
+        </p>
+      </header>
+
+      <section class="panel upload">
+        <h2>Start a run</h2>
+        <form id="jobForm">
+          <label class="field">
+            <span>Form URL</span>
+            <input
+              type="url"
+              name="formUrl"
+              id="formUrl"
+              value="https://mendrika-alma.github.io/form-submission/"
+              placeholder="https://example.com/form"
+              required
+            />
+          </label>
+
+          <div class="file-grid">
+            <label class="field">
+              <span>Passport PDF or image</span>
+              <input
+                type="file"
+                name="passport"
+                id="passport"
+                accept=".pdf,image/*"
+                required
+              />
+            </label>
+            <label class="field">
+              <span>G-28 PDF</span>
+              <input type="file" name="g28" id="g28" accept=".pdf" required />
+            </label>
+          </div>
+
+          <button type="submit" id="startBtn">Run agent</button>
+        </form>
+      </section>
+
+      <section class="panel status">
+        <div class="status-head">
+          <h2>Live status</h2>
+          <span id="jobId" class="pill">Job: --</span>
+        </div>
+        <p id="statusText">Waiting for a job.</p>
+        <div class="progress">
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+        </div>
+      </section>
+
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

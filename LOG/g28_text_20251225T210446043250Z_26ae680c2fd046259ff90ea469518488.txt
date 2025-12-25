@@ -1,0 +1,412 @@
+Notice of Entry of Appearance
+as Attorney or Accredited Representative
+Department of Homeland Security
+Part 1.  Information About Attorney or
+Accredited Representative
+1.
+USCIS Online Account Number (if any)
+►
+Name of Attorney or Accredited Representative
+2.a.
+Family Name
+Pt1Line2a_FamilyName[0] (Part 1. Information About Attorney or Accredited Representative. Name of Attorney or Accredited Representative. 2. A. Enter Family Name (Last Name).): Smith
+Smith
+(Last Name)
+2.b. Given Name
+Pt1Line2b_GivenName[0] (Part 1. Information About Attorney or Accredited Representative. Name of Attorney or Accredited Representative. 2. B. Enter Given Name (First Name).): Barbara
+Barbara
+(First Name)
+2.c. Middle Name
+Address of Attorney or Accredited Representative
+3.a.
+Street Number
+Line3a_StreetNumber[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. A. Enter Street Number and Name.): 545 Bryant Street
+545 Bryant Street
+and Name
+Line3b_AptSteFlrNumber[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. B. Enter Apartment, Suite or Floor Number.): N/A
+3.b.
+Apt.
+Ste.
+Flr.
+Line3b_Unit[2] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. B. Select Apartment.): Off
+Line3b_Unit[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. B. Select Suite.): Off
+Line3b_Unit[1] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. B. Select Floor.): Off
+N/A
+Line3c_CityOrTown[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3.C. Enter City or Town.): Palo Alto
+3.c.  City or Town
+Palo Alto
+Line3d_State[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. D. Select State from List of States.): CA
+Line3e_ZipCode[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. E. Enter Zip Code.): 94301
+3.d. State
+3.e.
+ZIP Code
+CA
+94301
+(USPS ZIP Code Lookup)
+Line3f_Province[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. F. Enter Province.): N/A
+3.f.
+Province
+N/A
+Line3g_PostalCode[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. G. Enter Postal Code.): N/A
+3.g.
+Postal Code
+N/A
+3.h.
+Country
+Line3h_Country[0] (Part 1. Information About Attorney or Accredited Representative. Address of Attorney or Accredited Representative. 3. H. Enter Country.): United States of America
+United States of America
+Contact Information of Attorney or Accredited
+Representative
+4.
+Daytime Telephone Number
+5.
+Mobile Telephone Number (if any)
+Line6_EMail[0] (Part 1. Information About Attorney or Accredited Representative. Contact Information of Attorney or Accredited Representative. 5. Enter Mobile Telephone Number, if any.): N/A
+N/A
+6.
+Email Address (if any)
+Line7_MobileTelephoneNumber[0] (Part 1. Information About Attorney or Accredited Representative. Contact Information of Attorney or Accredited Representative. 6. Enter Email Address, if any.): immigration@tryalma.ai
+immigration@tryalma.ai
+7.
+Fax Number (if any)
+Pt1ItemNumber7_FaxNumber[0] (Part 1. Information About Attorney or Accredited Representative. Contact Information of Attorney or Accredited Representative. 7. Enter Fax Number, if any.): 1650123456
+1650123456
+Form G-28   09/17/18
+DHS
+Form G-28
+OMB No. 1615-0105
+Expires 05/31/2021
+Part 2.  Eligibility Information for Attorney or
+Accredited Representative
+Select all applicable items.
+I am an attorney eligible to practice law in, and a
+1.a.
+CheckBox1[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. A. Select I am an attorney eligible to practice law in, and a member in good standing of, the bar of the highest courts of the following states, possessions, territories, commonwealths, or the District of Columbia. (If you need extra space to complete this section, use the space provided in Part 6. Additional Information. ): Y
+member in good standing of, the bar of the highest
+courts of the following states, possessions, territories,
+commonwealths, or the District of Columbia.  If you
+need extra space to complete this section, use the
+space provided in Part 6. Additional Information.
+Licensing Authority
+Pt2Line1a_LicensingAuthority[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. A. Enter Licensing Authority.): State Bar of California
+State Bar of California
+1.b.
+Bar Number (if applicable)
+Pt2Line1b_BarNumber[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. B. Enter Bar Number, if applicable.): 12083456
+12083456
+1.c.
+I (select only one box)
+am not
+am
+Checkbox1dAmNot[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. C. I (select only one box). Select am not subject to any order suspending, enjoining, restraining, disbarring, or otherwise restricting me in the practice of law. If you are subject to any orders, use the space provided in Part 6. Additional Information to provide an explanation.): Y
+Checkbox1dAm[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. C. I (select only one box). Select am subject to any order suspending, enjoining, restraining, disbarring, or otherwise restricting me in the practice of law. If you are subject to any orders, use the space provided in Part 6. Additional Information to provide an explanation.): Off
+subject to any order suspending, enjoining, restraining,
+disbarring, or otherwise restricting me in the practice of
+law.  If you are subject to any orders, use the space
+provided in Part 6. Additional Information to provide
+an explanation.
+1.d.
+Name of Law Firm or Organization (if applicable)
+Pt2Line1d_NameofFirmOrOrganization[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 1. D. Enter Name of Law Firm or Organization, if applicable.): Alma Legal Services PC
+Alma Legal Services PC
+2.a.
+I am an accredited representative of the following
+CheckBox2[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 2. A. Select I am an accredited representative of the following qualified nonprofit religious, charitable, social service, or similar organization established in the United States and recognized by the Department of Justice in accordance with 8 Code of Federal Regulations part 12 92.): Off
+qualified nonprofit religious, charitable, social
+service, or similar organization established in the
+United States and recognized by the Department of
+Justice in accordance with 8 CFR part 1292.
+2.b.
+Name of Recognized Organization
+Line2b_NameofOrganization[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 2. B. Enter Name of Recognized Organization.): N/A
+N/A
+2.c.
+Date of Accreditation (mm/dd/yyyy)
+Line2c_DateExpires[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 2. C. Enter Date of Accreditation. Enter as 2-digit Month, 2-digit Day, and 4-digit Year.): N/A
+N/A
+3.
+I am associated with
+CheckBox3[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 3. Select I am associated with Name of Attorney or Representative, the attorney or accredited representative of record who previously filed Form G-28 in this case, and my appearance as an attorney or accredited representative for a limited purpose is at his or her request. ): Off
+Line3_NameofAttorneyOrRep[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 3. Enter Name of Attorney or Representative.): N/A
+,
+N/A
+the attorney or accredited representative of record
+who previously filed Form G-28 in this case, and my
+appearance as an attorney or accredited representative
+for a limited purpose is at his or her request.
+4.a.
+I am a law student or law graduate working under the
+CheckBox4[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 4. A. Select I am a law student or law graduate working under the direct supervision of the attorney or accredited representative of record on this form in accordance with the requirements in 8 Code of Federal Regulations (C F R) 2 92.1(A.)(2).): Off
+direct supervision of the attorney or accredited
+representative of record on this form in accordance
+with the requirements in 8 CFR 292.1(a)(2).
+4.b.  Name of Law Student or Law Graduate
+Line4b_LawStudent[0] (Part 2. Eligibility Information for Attorney or Accredited Representative. Select all applicable items. 4. B. Enter Name of Law Student or Law Graduate.): N/A
+N/A
+Page 1 of 4
+Part 3.  Notice of Appearance as Attorney or
+Accredited Representative
+If you need extra space to complete this section, use the space
+provided in Part 6. Additional Information.
+This appearance relates to immigration matters before
+(select only one box):
+1.a.
+U.S. Citizenship and Immigration Services (USCIS)
+Line1a_USCIS[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. If you need extra space to complete this section, use the space provided in Part 6. Additional Information. This appearance relates to immigration matters before (select only one box). 1. A. Select U.S. Citizenship and Immigration Services (U S C I S).): Y
+1.b.
+List the form numbers or specific matter in which
+appearance is entered.
+Line1b_ListFormNumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). 1. B. List the form numbers  or specific matter in which appearance is entered.): N/A
+N/A
+2.a.
+U.S. Immigration and Customs Enforcement (ICE)
+Line2a_ICE[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). 2. A. Select U.S. Immigration and Customs Enforcement (ICE).): Off
+2.b.
+List the specific matter in which appearance is entered.
+Line2b_ListMatter[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). 2. B. List the specific matter in which appearance is entered.): N/A
+N/A
+3.a.
+U.S. Customs and Border Protection (CBP)
+Line3a_CBP[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). Select 3. A. U.S. Customs and Border Protection (C B P).): Y
+3.b.
+List the specific matter in which appearance is entered.
+Line3b_ListSpecificMatter[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). 3. B. List the specific matter in which appearance is entered.): I-129 E-3 Application
+4.
+Receipt Number (if any)
+Pt3Line4_ReceiptNumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. This appearance relates to immigration matters before (select only one box). 4. Enter Receipt Number, if any.): N/A
+►
+N
+/
+A
+5.
+I enter my appearance as an attorney or accredited
+representative at the request of the (select only one box):
+Requestor
+Applicant
+Petitioner
+Line4_Checkbox[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. 5. I enter my appearance as an attorney or accredited representative at the request of the, (select only one box). Select Requestor.): Off
+Line4_Checkbox[3] (Part 3. Notice of Appearance as Attorney or Accredited Representative. 5. I enter my appearance as an attorney or accredited representative at the request of the, (select only one box). Select Petitioner.): Off
+Line4_Checkbox[1] (Part 3. Notice of Appearance as Attorney or Accredited Representative. 5. I enter my appearance as an attorney or accredited representative at the request of the, (select only one box). Select Applicant.): A
+Respondent (ICE, CBP)
+Beneficiary/Derivative
+Line4_Checkbox[2] (Part 3. Notice of Appearance as Attorney or Accredited Representative. 5. I enter my appearance as an attorney or accredited representative at the request of the, (select only one box). Select Respondent (ICE, C B P).): Off
+Line4_Checkbox[4] (Part 3. Notice of Appearance as Attorney or Accredited Representative. 5. I enter my appearance as an attorney or accredited representative at the request of the, (select only one box). Select Beneficiary / Derivative.): Off
+Information About Client (Applicant, Petitioner,
+Requestor, Beneficiary or Derivative, Respondent,
+or Authorized Signatory for an Entity)
+6.a.
+Family Name
+Pt3Line5a_FamilyName[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 6. A. Enter Family Name (Last Name).): Jonas
+Jonas
+(Last Name)
+6.b.
+Given Name
+Pt3Line5b_GivenName[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 6. B. Enter Given Name (First Name).): Joe
+Joe
+(First Name)
+Pt3Line5c_MiddleName[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 6. C. Enter Middle Name.): N/A
+6.c.
+Middle Name
+N/A
+7.a.
+Name of Entity (if applicable)
+Pt3Line7a_NameOfEntity[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity.) 7. A. Enter Name of Entity, if applicable.): N/A
+N/A
+7.b.
+Title of Authorized Signatory for Entity (if applicable)
+Pt3Line7b_TitleofEntity[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 7. B. Enter Title of Authorized Signatory for Entity, if applicable.): N/A
+N/A
+8.
+Client's USCIS Online Account Number (if any)
+Pt3Line8_USCISOnlineAcctNumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 8. Enter Client's U S C I S Online Account Number, if any.): N/A
+►
+N
+/
+A
+9.
+Client's Alien Registration Number (A-Number) (if any)
+Pt3Line9_ANumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Information About Client (Applicant, Petitioner, Requestor, Beneficiary or Derivative, Respondent, or Authorized Signatory for an Entity). 9. Enter Client's Alien Registration Number (A. Number), if any.): N/A
+►A-
+N
+/
+A
+Form G-28   09/17/18
+Client's Contact Information
+Daytime Telephone Number
+10.
+Line9_DaytimeTelephoneNumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Client's Contact Information. 10. Enter Daytime Telephone Number.): +61 45453434
++61 45453434
+11.
+Mobile Telephone Number (if any)
+Line10_MobileTelephoneNumber[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Client's Contact Information. 11. Enter Mobile Telephone Number, if any.): N/A
+N/A
+12.
+Email Address (if any)
+Line11_EMail[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Client's Contact Information. 12. Enter Email Address, if any.): b.smith_00@test.ai
+b.smith_00@test.ai
+Mailing Address of Client
+NOTE:  Provide the client's mailing address.  Do not provide
+the business mailing address of the attorney or accredited
+representative unless it serves as the safe mailing address on the
+application or petition being filed with this Form G-28.
+13.a. Street Number
+Line12a_StreetNumberName[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. NOTE:  Provide the client's mailing address.  Do not provide the business mailing address of the attorney or accredited representative unless it serves as the safe mailing address on the application or petition being filed with this Form G-28. 13. A. Enter Street Number and Name.): 16 Anytown Street
+16 Anytown Street
+and Name
+13.b.
+Apt.
+Ste.
+Flr.
+Line12b_Unit[2] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. B. Select Apartment.): Off
+Line12b_Unit[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. B. Select Suite.): Off
+Line12b_Unit[1] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. B. Select Floor.): Off
+Line12c_CityOrTown[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. C. Enter City or Town.): Perth
+13.c.  City or Town
+Perth
+Line12d_State[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. D. Select State from List of States.): WA
+Line12e_ZipCode[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. E. Enter Zip Code.): N/A
+13.d. State
+13.e. ZIP Code
+N/A
+WA
+Line12f_Province[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. F. Enter Province.): WA
+13.f.
+Province
+WA
+Line12g_PostalCode[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. G. Enter Postal Code.): 6000
+13.g.
+Postal Code
+6000
+13.h.
+Country
+Line12h_Country[0] (Part 3. Notice of Appearance as Attorney or Accredited Representative. Mailing Address of Client. 13. H. Enter Country.): Australia
+Australia
+Part 4.  Client's Consent to Representation and
+Signature
+Consent to Representation and Release of
+Information
+I have requested the representation of and consented to being
+represented by the attorney or accredited representative named
+in Part 1. of this form.  According to the Privacy Act of 1974
+and U.S. Department of Homeland Security (DHS) policy, I
+also consent to the disclosure to the named attorney or
+accredited representative of any records pertaining to me that
+appear in any system of records of USCIS, ICE, or CBP.
+Page 2 of 4
+Part 4.  Client's Consent to Representation and
+Signature (continued)
+Options Regarding Receipt of USCIS Notices and
+Documents
+USCIS will send notices to both a represented party (the client)
+and his, her, or its attorney or accredited representative either
+through mail or electronic delivery.  USCIS will send all secure
+identity documents and Travel Documents to the client's U.S.
+mailing address.
+If you want to have notices and/or secure identity documents
+sent to your attorney or accredited representative of record rather
+than to you, please select all applicable items below.  You may
+change these elections through written notice to USCIS.
+1.a.
+I request that USCIS send original notices on an
+Pt4Line2a_CheckBox2a[0] (Part 4. Client's Consent to Representation and Signature. Options Regarding Receipt of U S C I S Notices and Documents. U S C I S will send notices to both a represented party (the client) and his, her, or its attorney or accredited representative either through mail or electronic delivery.  U S C I S will send all secure identity documents and Travel Documents to the client's U.S. mailing address. If you want to have notices and/or secure identity documents sent to your attorney or accredited representative of record rather than to you, please select all applicable items below. You may change these elections through written notice to U S C I S. 1. A. Select I request that U S C I S send original notices on an application or petition to the U.S. business address of my attorney or accredited representative as listed in this form.): Y
+application or petition to the business address of my
+attorney or accredited representative as listed in this
+form.
+1.b.
+I request that USCIS send any secure identity
+Pt4Line2b_CheckBox2b[0] (Part 4.  Client's Consent to Representation and Signature. Options Regarding Receipt of U S C I S Notices and Documents. U S C I S will send notices to both a represented party (the client) and his, her, or its attorney or accredited representative either through mail or electronic delivery. U S C I S will send all secure identity documents and Travel Documents to the client's U.S. mailing address. If you want to have notices and/or secure identity documents sent to your attorney or accredited representative of record rather than to you, please select all applicable items below. You may change these elections through written notice to U S C I S. 1. B. Select I request that U S C I S send any secure identity document (Permanent Resident Card, Employment Authorization Document, or Travel Document) that I receive to the U.S. business address of my attorney or accredited representative (or to a designated military or diplomatic address in a foreign country (if permitted)). NOTE:  If your notice contains Form I-94, Arrival-Departure Record, U S C I S will send the notice to the U.S. business address of your attorney or accredited representative.  If you would rather have your Form I-94 sent directly to you, select Item Number 1. C.): Off
+document (Permanent Resident Card, Employment
+Authorization Document, or Travel Document) that I
+receive to the U.S. business address of my attorney or
+accredited representative (or to a designated military
+or diplomatic address in a foreign country (if
+permitted)).
+NOTE:  If your notice contains Form I-94,
+Arrival-Departure Record, USCIS will send the
+notice to the U.S. business address of your attorney
+or accredited representative.  If you would rather
+have your Form I-94 sent directly to you, select
+Item Number 1.c.
+1.c.
+I request that USCIS send my notice containing Form
+Pt4Line2c_CheckBox2c[0] (Part 4.  Client's Consent to Representation and Signature. Options Regarding Receipt of U S C I S Notices and Documents. U S C I S will send notices to both a represented party (the client) and his, her, or its attorney or accredited representative either through mail or electronic delivery. U S C I S will send all secure identity documents and Travel Documents to the client's U.S. mailing address. If you want to have notices and/or secure identity documents sent to your attorney or accredited representative of record rather than to you, please select all applicable items below. You may change these elections through written notice to U S C I S. 1. C. Select I request that U S C I S send my notice containing Form I-94 to me at my U.S. mailing address.): Off
+I-94 to me at my U.S. mailing address.
+Signature of Client or Authorized Signatory for an
+Entity
+2.a.
+Signature of Client or Authorized Signatory for an Entity
+2.b.
+Date of Signature (mm/dd/yyyy)
+Form G-28   09/17/18
+Part 5.  Signature of Attorney or Accredited
+Representative
+I have read and understand the regulations and conditions
+contained in 8 CFR 103.2 and 292 governing appearances and
+representation before DHS.  I declare under penalty of perjury
+under the laws of the United States that the information I have
+provided on this form is true and correct.
+1. a. Signature of Attorney or Accredited Representative
+1.b.
+Date of Signature (mm/dd/yyyy)
+2.a.
+Signature of Law Student or Law Graduate
+2.b.
+Date of Signature (mm/dd/yyyy)
+Page 3 of 4
+Part 6.  Additional Information
+If you need extra space to provide any additional information
+within this form, use the space below.  If you need more space
+than what is provided, you may make copies of this page to
+complete and file with this form or attach a separate sheet of
+paper.  Type or print your name at the top of each sheet;
+indicate the Page Number, Part Number, and Item Number
+to which your answer refers; and sign and date each sheet.
+1.a
+Family Name
+Pt3Line5a_FamilyName[1] (Part 6. Additional Information.  If you need extra space to provide any additional information within this form, use the space below.  If you need more space than what is provided, you may make copies of this page to complete and file with this form or attach a separate sheet of paper.  Type or print your name at the top of each sheet; indicate the Page Number, Part Number, and Item Number to which your answer refers; and sign and date each sheet. 1. A. Family Name (Last Name). This field is pre-populated from Part 3.): Smith
+Smith
+(Last Name)
+1.b.
+Given Name
+Pt3Line5b_GivenName[1] (Part 6. Additional Information. 1. B. Given Name (First Name). This field is pre-populated from Part 3.): Barbara
+Barbara
+(First Name)
+Middle Name
+1.c.
+2.a.
+Page Number
+2.b.
+Part Number
+2.c.
+Item Number
+2.d.
+3.a.
+Page Number
+3.b.
+Part Number
+3.c.
+Item Number
+3.d.
+Form G-28   09/17/18
+4.a.
+4.b.
+4.c.
+Page Number
+Part Number
+Item Number
+4.d.
+5.a.
+Page Number
+5.b.
+Part Number
+5.c.
+Item Number
+5.d.
+Page Number
+Part Number
+Item Number
+6.a.
+6.b.
+6.c.
+6.d.
+Page 4 of 4
